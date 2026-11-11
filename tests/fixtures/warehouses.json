@@ -1,0 +1,29 @@
+{
+  "code": 0,
+  "message": "Sucesso",
+  "requestId": "fixture",
+  "timestamp": 1793888491,
+  "data": [
+    {
+      "warehouseId": "2502694628668874",
+      "puid": 0,
+      "warehouseName": "My Warehouse",
+      "warehouseType": "SELF_OPERATED",
+      "isDefault": true,
+      "serviceId": null,
+      "serviceAuthName": null,
+      "country": null,
+      "city": null,
+      "address": null,
+      "createTime": "2024-02-21T22:25:01.001+00:00",
+      "updateTime": "2024-02-21T22:25:01.001+00:00",
+      "providerName": null,
+      "providerType": null,
+      "3plId": null,
+      "3plWarehouseCode": null,
+      "3plWarehouseName": null,
+      "province": null,
+      "postCode": null
+    }
+  ]
+}

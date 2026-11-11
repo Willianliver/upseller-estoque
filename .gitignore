@@ -1,0 +1,40 @@
+# Credenciais e dados locais
+.env
+.env.*
+!.env.example
+data/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+
+# Logs e exportações
+logs/
+*.log
+exports/
+*.xlsx
+!tests/fixtures/*.xlsx
+
+# Claude Code (configuração local) e IDE
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Claude Code (permanece apenas local)
+CLAUDE.md
+.claude/
